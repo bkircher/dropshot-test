@@ -9,3 +9,6 @@ edition = "2018"
 [dependencies]
 dropshot = "0.5.1"
 tokio = { version = "1", features = ["full"] }
+serde = "1.0.126"
+schemars = "0.8.3"
+http = "0.2.4"
